@@ -4,6 +4,9 @@
 ## Code availability
 **Scripts** related to the manuscript are available in this GitHub repository in ... directory.
 
+## Shiny App for multi-omic data exploration 
+The multi-omic data comprising **acid extractome protein abundance**, **chromatin-associated protein abundance**, **gene expression** and **histone modifications** for naive and primed hPSCs +/- PRC2i can be explored using the online resource: https://www.bioinformatics.babraham.ac.uk/shiny/shiny_omics/Shiny_omics (Username: test; Password: justtesting).
+
 ## Loom files for scRNAseq data visualization
 As a resource to community we provide 2 Loom files that contain UMAP-clustering, cluster annotation and gene expression from: 
 
@@ -16,9 +19,6 @@ Loom files can be downloaded here: [GSE176173](https://www.ncbi.nlm.nih.gov/geo/
 In order to browse the datasets, upload loom files by clicking on "Upload dataset" in the menu on the left-side of SCope website. Uploading may take a few minutes. Successful upload will activate a private, temporary session for the user. Each session expires after 5 days, but can be renewed by re-uploading the loom file. 
 
 Standalone SCope apps for macOS and Linux can be downloaded from [here](https://github.com/aertslab/SCope/releases).
-
-## Shiny App for multi-omic data exploration 
-The multi-omic data comprising **acid extractome protein abundance**, **chromatin-associated protein abundance**, **gene expression** and **histone modifications** for naive and primed hPSCs +/- PRC2i can be explored using the online resource: https://www.bioinformatics.babraham.ac.uk/shiny/shiny_omics/Shiny_omics (Username: test; Password: justtesting).
 
 ## Data availability
 Raw and processed sequencing data for **cCUT&RUN**, **RNA-seq** and **scRNA-seq** can be found here: [GSE176175](http://www.ncbi.nlm.nih.gov/geo/...).
