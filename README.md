@@ -1,7 +1,8 @@
 # Integrated Multi-Omics Reveal Polycomb Repressive Complex 2 Restricts Human Trophoblast Induction
+Welcome to the GitHub repository for our manuscript entitled ["Integrated Multi-Omics Reveal Polycomb Repressive Complex 2 Restricts Human Trophoblast Induction"](https://www...).
 
 ## Code availability
-Scripts related to the manuscript entitled "Integrated Multi-Omics Reveal Polycomb Repressive Complex 2 Restricts Human Trophoblast Induction" published in ...(https://www.) are available in this GitHub repository in ... directory.
+Scripts related to the manuscript are available in this GitHub repository in ... directory.
 
 ## Loom files for scRNAseq data visualization
 As a resource to community we provide .loom files that contain UMAP-clustering, cluster annotation and gene expression from the scRNA-seq datasets analyzed in the manuscript. 
