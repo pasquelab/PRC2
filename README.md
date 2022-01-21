@@ -18,7 +18,7 @@ In order to browse the datasets, upload loom files by clicking on "Upload datase
 Standalone SCope apps for macOS and Linux can be downloaded from [here](https://github.com/aertslab/SCope/releases).
 
 ## Shiny App for multi-omic data exploration 
-The multi-omic data comprising **acid extractome protein abundance**, **chromatin-associated protein abundance**, **gene expression** and **histone modifications** can be explored using the online resource: https://www.bioinformatics.babraham.ac.uk/shiny/shiny_omics/Shiny_omics (Username: test; Password: justtesting).
+The multi-omic data comprising **acid extractome protein abundance**, **chromatin-associated protein abundance**, **gene expression** and **histone modifications** for naive and primed hPSCs +/- PRC2i can be explored using the online resource: https://www.bioinformatics.babraham.ac.uk/shiny/shiny_omics/Shiny_omics (Username: test; Password: justtesting).
 
 ## Data availability
 Raw and processed sequencing data for **cCUT&RUN**, **RNA-seq** and **scRNA-seq** can be found here: [GSE176175](http://www.ncbi.nlm.nih.gov/geo/...).
