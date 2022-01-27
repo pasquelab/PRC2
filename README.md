@@ -16,7 +16,7 @@ As a resource to community we provide 2 Loom files that contain UMAP-clustering,
 
 You can browse interactively these two loom files using [SCope platform/PRC2](https://scope.aertslab.org/#/HumanPluripotencyPRC2/*/welcome).
 
-Loom files can be downloaded here: [GSE176173](https://www.ncbi.nlm.nih.gov/geo/) using the http links at the bottom of the page. After unzipping, you can browse interactively using [SCope platform](https://scope.aertslab.org/#/0e367043-465c-442d-8b64-4af393567818/*/welcome). In order to browse the datasets, upload loom files by clicking on "Upload dataset" in the menu on the left-side of SCope website. Uploading may take a few minutes. Successful upload will activate a private, temporary session for the user. Each session expires after 5 days, but can be renewed by re-uploading the loom file. 
+Loom files can be downloaded here: [GSE176173](https://www.ncbi.nlm.nih.gov/geo/) using the http links at the bottom of the page. After unzipping, you can browse interactively using [SCope platform](https://scope.aertslab.org/#/0e367043-465c-442d-8b64-4af393567818/*/welcome). In order to browse the datasets, upload loom files by clicking on "Upload new dataset" in the menu on the left-side of SCope website. Uploading may take a few minutes. Successful upload will activate a private, temporary session for the user. Each session expires after 5 days, but can be renewed by re-uploading the loom file. 
 
 Standalone SCope apps for macOS and Linux can be downloaded from [here](https://github.com/aertslab/SCope/releases).
 
