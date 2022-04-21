@@ -2,7 +2,7 @@
 :tada: **Welcome** to the GitHub repository for our manuscript entitled ["Integrated Multi-Omics Reveal Polycomb Repressive Complex 2 Restricts Human Trophoblast Induction"](https://www...).
 
 ## Code availability
-**Scripts** related to the manuscript are available in this GitHub repository in [SCRIPTS](SCRIPTS) directory.
+**Scripts** related to the manuscript from The Pasque Lab are available in this GitHub repository in [SCRIPTS](SCRIPTS) directory.
 
 ## Shiny App for multi-omic data exploration 
 The multi-omic data comprising **acid extractome protein abundance**, **chromatin-associated protein abundance**, **gene expression** and **histone modifications** for naive and primed hPSCs +/- PRC2i can be explored using the online resource: https://www.bioinformatics.babraham.ac.uk/shiny/shiny_omics/Shiny_omics.
