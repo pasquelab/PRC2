@@ -5,7 +5,7 @@
 **Scripts** related to the manuscript are available in this GitHub repository in [SCRIPTS](SCRIPTS) directory.
 
 ## Shiny App for multi-omic data exploration 
-The multi-omic data comprising **acid extractome protein abundance**, **chromatin-associated protein abundance**, **gene expression** and **histone modifications** for naive and primed hPSCs +/- PRC2i can be explored using the online resource: https://www.bioinformatics.babraham.ac.uk/shiny/shiny_omics/Shiny_omics (Username: test; Password: justtesting).
+The multi-omic data comprising **acid extractome protein abundance**, **chromatin-associated protein abundance**, **gene expression** and **histone modifications** for naive and primed hPSCs +/- PRC2i can be explored using the online resource: https://www.bioinformatics.babraham.ac.uk/shiny/shiny_omics/Shiny_omics.
 
 ## Loom files for scRNAseq data visualization
 As a resource to community we provide 2 Loom files that contain UMAP-clustering, cluster annotation and gene expression from: 
