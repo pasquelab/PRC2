@@ -25,6 +25,6 @@ SCope was developed and is maintained by [Aerts lab](https://www.aertslab.org/).
 ## Data availability
 Raw and processed sequencing data for **cCUT&RUN**, **RNA-seq** and **scRNA-seq** can be found here: [GSE176175](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE176175).
 
-The **ChEP mass spectrometry proteomics data** can be found here: [PXD028111](https://www.ebi.ac.uk/pride/).
+The **ChEP mass spectrometry proteomics data** can be found here: [PXD028111](http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD028111).
 
-The **hPTM mass spectrometry proteomics data** can be found here: [PXD028162](https://www.ebi.ac.uk/pride/) and [PXD032792](https://www.ebi.ac.uk/pride/).
+The **hPTM mass spectrometry proteomics data** can be found here: [PXD028162](http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD028162) and [PXD032792](http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD032792).
