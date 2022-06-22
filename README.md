@@ -1,5 +1,5 @@
 # Integrated Multi-Omics Reveal Polycomb Repressive Complex 2 Restricts Human Trophoblast Induction
-:tada: **Welcome** to the GitHub repository for our manuscript entitled ["Integrated Multi-Omics Reveal Polycomb Repressive Complex 2 Restricts Human Trophoblast Induction"](https://www...).
+:tada: **Welcome** to the GitHub repository for our manuscript entitled ["Integrated Multi-Omics Reveal Polycomb Repressive Complex 2 Restricts Human Trophoblast Induction"](https://www.nature.com/articles/s41556-022-00932-w).
 
 ## Code availability
 **Scripts** related to the manuscript from Pasque lab are available in this GitHub repository in [SCRIPTS](SCRIPTS) directory.
